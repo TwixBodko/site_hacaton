@@ -1,0 +1,326 @@
+.header {
+    /* Header_bg */
+
+position: absolute;
+width: 100%;
+height: 130px;
+left: 0px;
+top: 0px;
+
+background: #595959;
+}
+.logo {
+    /* image-logo */
+
+position: absolute;
+width: 220px;
+height: 100px;
+left: 30px;
+top: 23px;
+
+background: url(Img/Tam_tam_logo.jpg);
+}
+.logo-hiper {
+    /* Image-hiper */
+
+position: absolute;
+width: 180px;
+height: 40px;
+left: 940px;
+top: 50px;
+}
+.express {
+    /* express 1 */
+
+position: absolute;
+width: 76px;
+height: 20px;
+left: 1129px;
+top: 60px;
+
+}
+.express:hover {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+.sale {
+    /* sALE */
+
+position: absolute;
+width: 76px;
+height: 20px;
+left: 1230px;
+top: 60px;
+}
+.sale:hover{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(0, 0, 0);
+}
+.coffe {
+    /* COFFE PLACE */
+
+position: absolute;
+width: 106px;
+height: 25px;
+left: 1326px;
+top: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.coffe:hover{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(255, 254, 254);
+    color: #000000;
+}
+.vurob {
+    /* ВЛАСНЕ ВИРОБНИЦТВО */
+
+position: absolute;
+width: 190px;
+height: 25px;
+left: 1450px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.vurob:hover {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+}
+.contact {
+    /* ВЛАСНЕ ВИРОБНИЦТВО */
+
+position: absolute;
+width: 190px;
+height: 25px;
+left: 1800px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.bonus {
+    /* ВЛАСНЕ ВИРОБНИЦТВО */
+
+position: absolute;
+width: 190px;
+height: 25px;
+left: 1660px;
+top: 49px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.cent {
+    /* image 1 */
+
+position: absolute;
+width: 1214px;
+height: 715px;
+left: 380px;
+top: 147px;
+
+background: url(image.png);
+}
+.pdf1-text {
+ /* ТАМ ТАМ ДОСТАВКА */
+
+position: absolute;
+width: 265px;
+height: 43px;
+left: 391px;
+top: 1020px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+.line1 {
+    /* Line 1 */
+
+position: absolute;
+width: 381px;
+height: 0px;
+left: 0px;
+top: 1049px;
+
+border: 1px solid #000000;
+}
+.line2 {
+    /* Line 2 */
+
+position: absolute;
+width: 725px;
+height: 0px;
+left: 610px;
+top: 1049px;
+
+border: 1px solid #000000;
+}
+.buk9 {
+    /* БУКЛЕТ №9 */
+
+position: absolute;
+width: 173px;
+height: 43px;
+left: 1347px;
+top: 1020px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 29px;
+
+color: #000000;
+}
+.line3 {
+    /* Line 3 */
+
+position: absolute;
+width: 400px;
+height: 0px;
+left: 1470px;
+top: 1049px;
+
+border: 1px solid #000000;
+}
+.buk1 {
+    /* image 2 */
+
+position: absolute;
+width: 724px;
+height: 1024px;
+left: 127px;
+top: 1160px;
+
+background: url(image.png);
+}
+.buk2 {
+    /* image 3 */
+
+position: absolute;
+width: 724px;
+height: 1024px;
+left: 1072px;
+top: 1160px;
+
+background: url(image.png);
+}
+.line4 {
+    /* Line 4 */
+
+position: absolute;
+width: 100%;
+height: 0px;
+left: 0px;
+top: 2278px;
+
+border: 1px solid #000000;
+}
+.foot1 {
+    /* Rectangle 1 */
+
+position: absolute;
+width: 100%;
+height: 450px;
+left: 0px;
+top: 2314px;
+
+background: #212529;
+}
+.foot2 {
+    /* Rectangle 2 */
+
+position: absolute;
+width: 100%;
+height: 112px;
+left: 0px;
+top: 2650px;
+
+background: #1C2023;
+}
+.foot-logo {
+    /* image 4 */
+
+position: absolute;
+width: 345px;
+height: 234px;
+left: 88px;
+top: 11px;
+
+background: url(image.png);
+}
+.vurob-foot {
+    /* ВЛАСНЕ ВИРОБНИЦТВО */
+
+position: absolute;
+width: 189px;
+height: 18px;
+left: 702px;
+top: 11px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.foot-all {
+    /* foot 1 */
+
+position: absolute;
+width: 1439px;
+height: 300px;
+left: 552px;
+top: 50px;
+
+background: url(foot.jpg);
+}
+.foot2-img {
+    /* image 5 */
+
+position: absolute;
+width: 244px;
+height: 64px;
+left: 817px;
+top: 40px;
+
+background: url(image.png);
+
+}
